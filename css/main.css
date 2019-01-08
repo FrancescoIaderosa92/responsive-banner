@@ -1,7 +1,17 @@
-font-family: 'Georgia, serif';
+html {
+  font-family: "Georgia, serif";
+  color: #fff;
+
+}
+
+background-image: {
+  rgba(73, 85, 98), linear-gradient
+}
 
 .wrapper {
+
   background-color: #495562;
+
 }
 
 .btn-ghost:hover {
