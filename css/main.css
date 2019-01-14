@@ -25,6 +25,8 @@ html {
 
   .banner-btn {
     text-align: right;
+    margin-top: auto;
+    margin-bottom: auto;
   }
 
 }
